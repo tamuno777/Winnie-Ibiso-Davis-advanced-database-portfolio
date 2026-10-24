@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Introduction to Databases",
+    "author": "Jane Okoro",
+    "category": "Tech",
+    "isbn": "ISBN001",
+    "copies_available": 3,
+    "tags": ["sql", "design"],
+    "reviews": [
+      { "member": "Member 5", "rating": 5, "comment": "Very clear" },
+      { "member": "Member 9", "rating": 4, "comment": "Good examples" }
+    ]
+  },
+  {
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "category": "Fiction",
+    "isbn": "ISBN002",
+    "copies_available": 2,
+    "tags": ["classic", "african-literature"],
+    "reviews": [
+      { "member": "Member 12", "rating": 5, "comment": "A masterpiece" }
+    ]
+  },
+  {
+    "title": "A Short History of Nigeria",
+    "author": "Ade Bello",
+    "category": "History",
+    "isbn": "ISBN003",
+    "copies_available": 1,
+    "reviews": []
+  },
+  {
+    "title": "Basic Physics",
+    "author": "Ngozi Eze",
+    "category": "Science",
+    "isbn": "ISBN004",
+    "copies_available": 4,
+    "edition": 3,
+    "reviews": [
+      { "member": "Member 20", "rating": 3, "comment": "Dense but useful" },
+      { "member": "Member 31", "rating": 4, "comment": "Great diagrams" }
+    ]
+  },
+  {
+    "title": "Learning Python",
+    "author": "Tolu Adeyemi",
+    "category": "Tech",
+    "isbn": "ISBN005",
+    "copies_available": 0,
+    "tags": ["python", "beginner"],
+    "reviews": [
+      { "member": "Member 3", "rating": 5, "comment": "Best for beginners" }
+    ]
+  }
+]
