@@ -1,4 +1,4 @@
-# Portfolio 1: Database Design and Modelling
+#  Database Design and Modelling
 
 ## Case Study
 
